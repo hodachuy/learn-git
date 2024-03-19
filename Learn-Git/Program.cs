@@ -7,6 +7,8 @@ namespace Learn_Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            // hdhuy code 1
         }
     }
 }
